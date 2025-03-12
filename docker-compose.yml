@@ -1,0 +1,75 @@
+services:
+  vehicle_account_db:
+    image: mysql:8.0
+    container_name: vehicle_account_db
+    restart: always
+    environment:
+      MYSQL_DATABASE: vehicleaccountdb
+      MYSQL_ROOT_PASSWORD: password
+    ports:
+      - "3306:3306"
+    volumes:
+      - vehicle_admin_db_data:/var/lib/mysql
+    networks:
+      - vehicle_network
+
+  vehicle_admin_db:
+    image: mysql:8.0
+    container_name: vehicle_admin_db
+    restart: always
+    environment:
+      MYSQL_DATABASE: vehicleadmindb
+      MYSQL_ROOT_PASSWORD: password
+    ports:
+      - "3307:3306"
+    volumes:
+      - vehicle_admin_db_data:/var/lib/mysql
+    networks:
+      - vehicle_network
+
+  accountsapi:
+    image: ${DOCKER_REGISTRY-}accountsapi
+    build:
+      context: .
+      dockerfile: AccountsApi/Dockerfile
+    ports:
+      - "8001:8080"
+    depends_on:
+      - vehicle_account_db
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      DB_SERVER: vehicle_account_db
+      DB_PORT: 3306
+      DB_NAME: vehicleaccountdb
+      DB_USER: root
+      DB_PASSWORD: password
+    networks:
+      - vehicle_network
+
+  adminapi:
+    image: ${DOCKER_REGISTRY-}adminapi
+    build:
+      context: .
+      dockerfile: AdminApi/Dockerfile
+    ports:
+      - "8002:8080"
+    depends_on:
+      - vehicle_admin_db
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      DB_SERVER: vehicle_admin_db
+      DB_PORT: 3306
+      DB_NAME: vehicleaccountdb
+      DB_USER: root
+      DB_PASSWORD: password
+    networks:
+      - vehicle_network
+
+volumes:
+  vehicle_account_db_data:
+  vehicle_admin_db_data:
+
+networks:
+  vehicle_network:
+    driver: bridge
+
