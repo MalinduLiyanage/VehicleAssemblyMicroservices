@@ -1,0 +1,9 @@
+[submodule "AdminService"]
+	path = AdminService
+	url = https://github.com/MalinduLiyanage/VehicleAssemblyMicroservices_Admin.git
+[submodule "AssemblyService"]
+	path = AssemblyService
+	url = https://github.com/MalinduLiyanage/VehicleAssemblyMicroservices_Assembly.git
+[submodule "AccountsService"]
+	path = AccountsService
+	url = https://github.com/MalinduLiyanage/VehicleAssemblyMicroservices_Accounts.git
