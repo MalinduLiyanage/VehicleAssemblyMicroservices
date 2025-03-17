@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminService", "..\Microser
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyService", "..\Microservices\AssemblyService\AssemblyService.csproj", "{0CBE0A11-9BF9-F344-6C80-840DC63385FA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APIGateway", "APIGateway", "{45B7C6E4-C489-49AB-84D5-C0EF4A6A9839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIGateway", "APIGateway\APIGateway.csproj", "{594CA824-9211-401E-869F-D5C7AEC632E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +33,10 @@ Global
 		{0CBE0A11-9BF9-F344-6C80-840DC63385FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CBE0A11-9BF9-F344-6C80-840DC63385FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CBE0A11-9BF9-F344-6C80-840DC63385FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{594CA824-9211-401E-869F-D5C7AEC632E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594CA824-9211-401E-869F-D5C7AEC632E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594CA824-9211-401E-869F-D5C7AEC632E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594CA824-9211-401E-869F-D5C7AEC632E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,6 +45,7 @@ Global
 		{A18A380F-06CC-02C2-592C-1CE03841038C} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{0A7E00AD-AF35-BE26-10E9-42A80D6A95A2} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{0CBE0A11-9BF9-F344-6C80-840DC63385FA} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{594CA824-9211-401E-869F-D5C7AEC632E0} = {45B7C6E4-C489-49AB-84D5-C0EF4A6A9839}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {74240757-3DD6-4B7A-9C31-08A8C5A7F154}

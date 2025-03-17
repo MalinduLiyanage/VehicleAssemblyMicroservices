@@ -1,0 +1,16 @@
+{
+    "Routes": [
+        {
+            "DownstreamPathTemplate": "/api/Admin/register",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5103
+                }
+            ],
+            "UpstreamPathTemplate": "/admin/register",
+            "UpstreamHttpMethod": [ "POST" ]
+        }
+    ]
+}
