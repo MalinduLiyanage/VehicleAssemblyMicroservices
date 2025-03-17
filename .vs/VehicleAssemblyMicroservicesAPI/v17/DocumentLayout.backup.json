@@ -3,10 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0A7E00AD-AF35-BE26-10E9-42A80D6A95A2}|..\\Microservices\\AdminService\\AdminService.csproj|c:\\users\\malin\\source\\repos\\microservices\\adminservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A7E00AD-AF35-BE26-10E9-42A80D6A95A2}|..\\Microservices\\AdminService\\AdminService.csproj|c:\\users\\malin\\source\\repos\\microservices\\adminservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0A7E00AD-AF35-BE26-10E9-42A80D6A95A2}|..\\Microservices\\AdminService\\AdminService.csproj|c:\\users\\malin\\source\\repos\\microservices\\adminservice\\utilities\\emailserviceutility\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A7E00AD-AF35-BE26-10E9-42A80D6A95A2}|..\\Microservices\\AdminService\\AdminService.csproj|c:\\users\\malin\\source\\repos\\microservices\\adminservice\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7E00AD-AF35-BE26-10E9-42A80D6A95A2}|..\\Microservices\\AdminService\\AdminService.csproj|c:\\users\\malin\\source\\repos\\microservices\\adminservice\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7E00AD-AF35-BE26-10E9-42A80D6A95A2}|..\\Microservices\\AdminService\\AdminService.csproj|c:\\users\\malin\\source\\repos\\microservices\\adminservice\\services\\adminaccountservice\\adminaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A7E00AD-AF35-BE26-10E9-42A80D6A95A2}|..\\Microservices\\AdminService\\AdminService.csproj|c:\\users\\malin\\source\\repos\\microservices\\adminservice\\services\\adminaccountservice\\iadminaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -16,6 +28,9 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A7E00AD-AF35-BE26-10E9-42A80D6A95A2}|..\\Microservices\\AdminService\\AdminService.csproj|c:\\users\\malin\\source\\repos\\microservices\\adminservice\\adminservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7E00AD-AF35-BE26-10E9-42A80D6A95A2}|..\\Microservices\\AdminService\\AdminService.csproj|c:\\users\\malin\\source\\repos\\microservices\\adminservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A7E00AD-AF35-BE26-10E9-42A80D6A95A2}|..\\Microservices\\AdminService\\AdminService.csproj|c:\\users\\malin\\source\\repos\\microservices\\adminservice\\migrations\\20250316205423_migration_01.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -48,6 +63,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "..\\Microservices\\AdminService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\appsettings.Development.json",
+              "RelativeToolTip": "..\\Microservices\\AdminService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T08:32:17.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\Utilities\\EmailServiceUtility\\EmailService.cs",
+              "RelativeDocumentMoniker": "..\\Microservices\\AdminService\\Utilities\\EmailServiceUtility\\EmailService.cs",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\Utilities\\EmailServiceUtility\\EmailService.cs",
+              "RelativeToolTip": "..\\Microservices\\AdminService\\Utilities\\EmailServiceUtility\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:27:43.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Microservices\\AdminService\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Microservices\\AdminService\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:25:27.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Microservices\\AdminService\\appsettings.json",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\appsettings.json",
+              "RelativeToolTip": "..\\Microservices\\AdminService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T08:18:32.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\Services\\AdminAccountService\\AdminAccountService.cs",
+              "RelativeDocumentMoniker": "..\\Microservices\\AdminService\\Services\\AdminAccountService\\AdminAccountService.cs",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\Services\\AdminAccountService\\AdminAccountService.cs",
+              "RelativeToolTip": "..\\Microservices\\AdminService\\Services\\AdminAccountService\\AdminAccountService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:08:57.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\Program.cs",
               "RelativeDocumentMoniker": "..\\Microservices\\AdminService\\Program.cs",
@@ -60,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "AdminModel.cs",
               "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\Models\\AdminModel.cs",
               "RelativeDocumentMoniker": "..\\Microservices\\AdminService\\Models\\AdminModel.cs",
@@ -73,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "..\\Microservices\\AdminService\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -86,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "..\\Microservices\\AdminService\\Controllers\\AdminController.cs",
@@ -99,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "IAdminAccountService.cs",
               "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\Services\\AdminAccountService\\IAdminAccountService.cs",
               "RelativeDocumentMoniker": "..\\Microservices\\AdminService\\Services\\AdminAccountService\\IAdminAccountService.cs",
@@ -112,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "AdminService",
               "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\AdminService.csproj",
               "RelativeDocumentMoniker": "..\\Microservices\\AdminService\\AdminService.csproj",
@@ -124,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "AdminService.http",
               "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\AdminService.http",
               "RelativeDocumentMoniker": "..\\Microservices\\AdminService\\AdminService.http",
@@ -137,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "20250316205423_migration_01.cs",
               "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\Migrations\\20250316205423_migration_01.cs",
               "RelativeDocumentMoniker": "..\\Microservices\\AdminService\\Migrations\\20250316205423_migration_01.cs",
@@ -150,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "20250316205423_migration_01.Designer.cs",
               "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\Migrations\\20250316205423_migration_01.Designer.cs",
               "RelativeDocumentMoniker": "..\\Microservices\\AdminService\\Migrations\\20250316205423_migration_01.Designer.cs",
@@ -163,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "AdminDTO.cs",
               "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\DTOs\\AdminDTO.cs",
               "RelativeDocumentMoniker": "..\\Microservices\\AdminService\\DTOs\\AdminDTO.cs",
@@ -176,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "BaseResponse.cs",
               "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AdminService\\DTOs\\Responses\\BaseResponse.cs",
               "RelativeDocumentMoniker": "..\\Microservices\\AdminService\\DTOs\\Responses\\BaseResponse.cs",
