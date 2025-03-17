@@ -1,6 +1,23 @@
 [
   {
     "Name": "New Profile",
-    "Projects": []
+    "Projects": [
+      {
+        "Path": "..\\Microservices\\AccountsService\\AccountsService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Microservices\\AdminService\\AdminService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Microservices\\AssemblyService\\AssemblyService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "APIGateway\\APIGateway.csproj",
+        "Action": "Start"
+      }
+    ]
   }
 ]

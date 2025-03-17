@@ -9,7 +9,31 @@
                     "Port": 5103
                 }
             ],
-            "UpstreamPathTemplate": "/admin/register",
+            "UpstreamPathTemplate": "/Admin/Register",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/Admin/login",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5103
+                }
+            ],
+            "UpstreamPathTemplate": "/Admin/Login",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/Admin/get-all",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5103
+                }
+            ],
+            "UpstreamPathTemplate": "/Admin/List",
             "UpstreamHttpMethod": [ "POST" ]
         }
     ]
