@@ -1,53 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A18A380F-06CC-02C2-592C-1CE03841038C}|..\\Microservices\\AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\microservices\\accountsservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{594CA824-9211-401E-869F-D5C7AEC632E0}|APIGateway\\APIGateway.csproj|c:\\users\\malin\\source\\repos\\vehicleassemblymicroservices\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{594CA824-9211-401E-869F-D5C7AEC632E0}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "..\\Microservices\\AccountsService\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Properties\\launchSettings.json",
-              "RelativeToolTip": "..\\Microservices\\AccountsService\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-17T11:08:10.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ocelot.json",
-              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\APIGateway\\ocelot.json",
-              "RelativeDocumentMoniker": "APIGateway\\ocelot.json",
-              "ToolTip": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\APIGateway\\ocelot.json",
-              "RelativeToolTip": "APIGateway\\ocelot.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-17T10:57:53.439Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

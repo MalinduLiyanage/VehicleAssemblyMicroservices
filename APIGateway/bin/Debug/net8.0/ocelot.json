@@ -35,6 +35,54 @@
             ],
             "UpstreamPathTemplate": "/Admin/List",
             "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/Vehicle/get-all",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5025
+                }
+            ],
+            "UpstreamPathTemplate": "/Vehicle/List",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/Vehicle/register",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5025
+                }
+            ],
+            "UpstreamPathTemplate": "/Vehicle/Register",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/Worker/get-all",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5025
+                }
+            ],
+            "UpstreamPathTemplate": "/Worker/List",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/Worker/register",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5025
+                }
+            ],
+            "UpstreamPathTemplate": "/Worker/Register",
+            "UpstreamHttpMethod": [ "POST" ]
         }
     ]
 }
