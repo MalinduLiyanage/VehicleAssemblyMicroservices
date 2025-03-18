@@ -37,6 +37,18 @@
             "UpstreamHttpMethod": [ "POST" ]
         },
         {
+            "DownstreamPathTemplate": "/api/InternalAdmin/{id}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5103
+                }
+            ],
+            "UpstreamPathTemplate": "/Admin/List/{id}",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
             "DownstreamPathTemplate": "/api/Vehicle/get-all",
             "DownstreamScheme": "http",
             "DownstreamHostAndPorts": [
@@ -46,6 +58,18 @@
                 }
             ],
             "UpstreamPathTemplate": "/Vehicle/List",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/InternalAccounts/vehicle/{id}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5025
+                }
+            ],
+            "UpstreamPathTemplate": "/Vehicle/List/{id}",
             "UpstreamHttpMethod": [ "POST" ]
         },
         {
@@ -73,6 +97,18 @@
             "UpstreamHttpMethod": [ "POST" ]
         },
         {
+            "DownstreamPathTemplate": "/api/InternalAccounts/worker/{id}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5025
+                }
+            ],
+            "UpstreamPathTemplate": "/Worker/List/{id}",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
             "DownstreamPathTemplate": "/api/Worker/register",
             "DownstreamScheme": "http",
             "DownstreamHostAndPorts": [
@@ -83,6 +119,18 @@
             ],
             "UpstreamPathTemplate": "/Worker/Register",
             "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/Assembles/create",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5033
+                }
+            ],
+            "UpstreamPathTemplate": "/AssemblyJob/Create",
+            "UpstreamHttpMethod": [ "POST" ]
         }
     ]
-}
+} 

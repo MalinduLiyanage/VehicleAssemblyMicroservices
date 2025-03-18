@@ -11,11 +11,11 @@
         "Action": "Start"
       },
       {
-        "Path": "..\\Microservices\\AssemblyService\\AssemblyService.csproj",
+        "Path": "APIGateway\\APIGateway.csproj",
         "Action": "Start"
       },
       {
-        "Path": "APIGateway\\APIGateway.csproj",
+        "Path": "..\\Microservices\\AssemblyService\\AssemblyService.csproj",
         "Action": "Start"
       }
     ]
