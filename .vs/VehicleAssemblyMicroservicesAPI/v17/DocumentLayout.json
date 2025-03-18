@@ -1,12 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CBE0A11-9BF9-F344-6C80-840DC63385FA}|..\\Microservices\\AssemblyService\\AssemblyService.csproj|c:\\users\\malin\\source\\repos\\microservices\\assemblyservice\\services\\assembleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CBE0A11-9BF9-F344-6C80-840DC63385FA}|..\\Microservices\\AssemblyService\\AssemblyService.csproj|c:\\users\\malin\\source\\repos\\microservices\\assemblyservice\\utilities\\validationattributes\\assemblerequestvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssembleService.cs",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AssemblyService\\Services\\AssembleService.cs",
+              "RelativeDocumentMoniker": "..\\Microservices\\AssemblyService\\Services\\AssembleService.cs",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AssemblyService\\Services\\AssembleService.cs",
+              "RelativeToolTip": "..\\Microservices\\AssemblyService\\Services\\AssembleService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAnwHgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T06:33:40.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssembleRequestValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AssemblyService\\Utilities\\ValidationAttributes\\AssembleRequestValidationService.cs",
+              "RelativeDocumentMoniker": "..\\Microservices\\AssemblyService\\Utilities\\ValidationAttributes\\AssembleRequestValidationService.cs",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AssemblyService\\Utilities\\ValidationAttributes\\AssembleRequestValidationService.cs",
+              "RelativeToolTip": "..\\Microservices\\AssemblyService\\Utilities\\ValidationAttributes\\AssembleRequestValidationService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T06:30:27.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
