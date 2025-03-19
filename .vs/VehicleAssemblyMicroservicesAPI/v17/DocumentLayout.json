@@ -3,34 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A18A380F-06CC-02C2-592C-1CE03841038C}|..\\Microservices\\AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\microservices\\accountsservice\\services\\validationservice\\icreateworkervalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A18A380F-06CC-02C2-592C-1CE03841038C}|..\\Microservices\\AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\microservices\\accountsservice\\utilities\\communicationclientutility\\communicationclientutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A18A380F-06CC-02C2-592C-1CE03841038C}|..\\Microservices\\AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\microservices\\accountsservice\\services\\validationservice\\createworkervalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A18A380F-06CC-02C2-592C-1CE03841038C}|..\\Microservices\\AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\microservices\\accountsservice\\controllers\\internalaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A18A380F-06CC-02C2-592C-1CE03841038C}|..\\Microservices\\AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\microservices\\accountsservice\\utilities\\validationattributes\\workervalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A18A380F-06CC-02C2-592C-1CE03841038C}|..\\Microservices\\AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\microservices\\accountsservice\\dtos\\requests\\putworkerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A18A380F-06CC-02C2-592C-1CE03841038C}|..\\Microservices\\AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\microservices\\accountsservice\\dtos\\requests\\putvehiclerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A18A380F-06CC-02C2-592C-1CE03841038C}|..\\Microservices\\AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\microservices\\accountsservice\\dtos\\workerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A18A380F-06CC-02C2-592C-1CE03841038C}|..\\Microservices\\AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\microservices\\accountsservice\\services\\workerservice\\workerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CBE0A11-9BF9-F344-6C80-840DC63385FA}|..\\Microservices\\AssemblyService\\AssemblyService.csproj|c:\\users\\malin\\source\\repos\\microservices\\assemblyservice\\services\\assembleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A18A380F-06CC-02C2-592C-1CE03841038C}|..\\Microservices\\AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\microservices\\accountsservice\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A18A380F-06CC-02C2-592C-1CE03841038C}|..\\Microservices\\AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\microservices\\accountsservice\\models\\workermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A18A380F-06CC-02C2-592C-1CE03841038C}|..\\Microservices\\AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\microservices\\accountsservice\\services\\internalaccountsservice\\internalaccountsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,136 +19,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ICreateWorkerValidationService.cs",
-              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Services\\ValidationService\\ICreateWorkerValidationService.cs",
-              "RelativeDocumentMoniker": "..\\Microservices\\AccountsService\\Services\\ValidationService\\ICreateWorkerValidationService.cs",
-              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Services\\ValidationService\\ICreateWorkerValidationService.cs",
-              "RelativeToolTip": "..\\Microservices\\AccountsService\\Services\\ValidationService\\ICreateWorkerValidationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "InternalAccountsService.cs",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Services\\InternalAccountsService\\InternalAccountsService.cs",
+              "RelativeDocumentMoniker": "..\\Microservices\\AccountsService\\Services\\InternalAccountsService\\InternalAccountsService.cs",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Services\\InternalAccountsService\\InternalAccountsService.cs",
+              "RelativeToolTip": "..\\Microservices\\AccountsService\\Services\\InternalAccountsService\\InternalAccountsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:56:24.168Z",
+              "WhenOpened": "2025-03-19T11:17:56.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CreateWorkerValidationService.cs",
-              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Services\\ValidationService\\CreateWorkerValidationService.cs",
-              "RelativeDocumentMoniker": "..\\Microservices\\AccountsService\\Services\\ValidationService\\CreateWorkerValidationService.cs",
-              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Services\\ValidationService\\CreateWorkerValidationService.cs",
-              "RelativeToolTip": "..\\Microservices\\AccountsService\\Services\\ValidationService\\CreateWorkerValidationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Title": "InternalAccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Controllers\\InternalAccountsController.cs",
+              "RelativeDocumentMoniker": "..\\Microservices\\AccountsService\\Controllers\\InternalAccountsController.cs",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Controllers\\InternalAccountsController.cs",
+              "RelativeToolTip": "..\\Microservices\\AccountsService\\Controllers\\InternalAccountsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:56:15.724Z",
+              "WhenOpened": "2025-03-19T11:17:25.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WorkerValidationAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Utilities\\ValidationAttributes\\WorkerValidationAttribute.cs",
-              "RelativeDocumentMoniker": "..\\Microservices\\AccountsService\\Utilities\\ValidationAttributes\\WorkerValidationAttribute.cs",
-              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Utilities\\ValidationAttributes\\WorkerValidationAttribute.cs",
-              "RelativeToolTip": "..\\Microservices\\AccountsService\\Utilities\\ValidationAttributes\\WorkerValidationAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CommunicationClientUtility.cs",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Utilities\\CommunicationClientUtility\\CommunicationClientUtility.cs",
+              "RelativeDocumentMoniker": "..\\Microservices\\AccountsService\\Utilities\\CommunicationClientUtility\\CommunicationClientUtility.cs",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Utilities\\CommunicationClientUtility\\CommunicationClientUtility.cs",
+              "RelativeToolTip": "..\\Microservices\\AccountsService\\Utilities\\CommunicationClientUtility\\CommunicationClientUtility.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:55:20.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PutWorkerRequest.cs",
-              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\DTOs\\Requests\\PutWorkerRequest.cs",
-              "RelativeDocumentMoniker": "..\\Microservices\\AccountsService\\DTOs\\Requests\\PutWorkerRequest.cs",
-              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\DTOs\\Requests\\PutWorkerRequest.cs",
-              "RelativeToolTip": "..\\Microservices\\AccountsService\\DTOs\\Requests\\PutWorkerRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:55:08.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PutVehicleRequest.cs",
-              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\DTOs\\Requests\\PutVehicleRequest.cs",
-              "RelativeDocumentMoniker": "..\\Microservices\\AccountsService\\DTOs\\Requests\\PutVehicleRequest.cs",
-              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\DTOs\\Requests\\PutVehicleRequest.cs",
-              "RelativeToolTip": "..\\Microservices\\AccountsService\\DTOs\\Requests\\PutVehicleRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:55:06.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WorkerDTO.cs",
-              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\DTOs\\WorkerDTO.cs",
-              "RelativeDocumentMoniker": "..\\Microservices\\AccountsService\\DTOs\\WorkerDTO.cs",
-              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\DTOs\\WorkerDTO.cs",
-              "RelativeToolTip": "..\\Microservices\\AccountsService\\DTOs\\WorkerDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:50:26.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WorkerModel.cs",
-              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Models\\WorkerModel.cs",
-              "RelativeDocumentMoniker": "..\\Microservices\\AccountsService\\Models\\WorkerModel.cs",
-              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Models\\WorkerModel.cs",
-              "RelativeToolTip": "..\\Microservices\\AccountsService\\Models\\WorkerModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:50:19.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WorkerController.cs",
-              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Controllers\\WorkerController.cs",
-              "RelativeDocumentMoniker": "..\\Microservices\\AccountsService\\Controllers\\WorkerController.cs",
-              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Controllers\\WorkerController.cs",
-              "RelativeToolTip": "..\\Microservices\\AccountsService\\Controllers\\WorkerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:48:27.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AssembleService.cs",
-              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AssemblyService\\Services\\AssembleService.cs",
-              "RelativeDocumentMoniker": "..\\Microservices\\AssemblyService\\Services\\AssembleService.cs",
-              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AssemblyService\\Services\\AssembleService.cs",
-              "RelativeToolTip": "..\\Microservices\\AssemblyService\\Services\\AssembleService.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:47:02.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WorkerService.cs",
-              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Services\\WorkerService\\WorkerService.cs",
-              "RelativeDocumentMoniker": "..\\Microservices\\AccountsService\\Services\\WorkerService\\WorkerService.cs",
-              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Services\\WorkerService\\WorkerService.cs",
-              "RelativeToolTip": "..\\Microservices\\AccountsService\\Services\\WorkerService\\WorkerService.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowEQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:46:47.386Z",
+              "WhenOpened": "2025-03-19T11:14:40.304Z",
               "EditorCaption": ""
             }
           ]
