@@ -3,13 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0CBE0A11-9BF9-F344-6C80-840DC63385FA}|..\\Microservices\\AssemblyService\\AssemblyService.csproj|c:\\users\\malin\\source\\repos\\microservices\\assemblyservice\\services\\assembleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A18A380F-06CC-02C2-592C-1CE03841038C}|..\\Microservices\\AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\microservices\\accountsservice\\utilities\\communicationclientutility\\communicationclientutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A18A380F-06CC-02C2-592C-1CE03841038C}|..\\Microservices\\AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\microservices\\accountsservice\\controllers\\internalaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A18A380F-06CC-02C2-592C-1CE03841038C}|..\\Microservices\\AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\microservices\\accountsservice\\services\\internalaccountsservice\\internalaccountsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A18A380F-06CC-02C2-592C-1CE03841038C}|..\\Microservices\\AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\microservices\\accountsservice\\services\\internalaccountsservice\\internalaccountsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A18A380F-06CC-02C2-592C-1CE03841038C}|..\\Microservices\\AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\microservices\\accountsservice\\controllers\\internalaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssembleService.cs",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AssemblyService\\Services\\AssembleService.cs",
+              "RelativeDocumentMoniker": "..\\Microservices\\AssemblyService\\Services\\AssembleService.cs",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AssemblyService\\Services\\AssembleService.cs",
+              "RelativeToolTip": "..\\Microservices\\AssemblyService\\Services\\AssembleService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:52:27.301Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -36,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "InternalAccountsController.cs",
               "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Controllers\\InternalAccountsController.cs",
               "RelativeDocumentMoniker": "..\\Microservices\\AccountsService\\Controllers\\InternalAccountsController.cs",
@@ -49,13 +65,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CommunicationClientUtility.cs",
               "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Utilities\\CommunicationClientUtility\\CommunicationClientUtility.cs",
               "RelativeDocumentMoniker": "..\\Microservices\\AccountsService\\Utilities\\CommunicationClientUtility\\CommunicationClientUtility.cs",
               "ToolTip": "C:\\Users\\malin\\source\\repos\\Microservices\\AccountsService\\Utilities\\CommunicationClientUtility\\CommunicationClientUtility.cs",
               "RelativeToolTip": "..\\Microservices\\AccountsService\\Utilities\\CommunicationClientUtility\\CommunicationClientUtility.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAIA4wCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T11:14:40.304Z",
               "EditorCaption": ""
