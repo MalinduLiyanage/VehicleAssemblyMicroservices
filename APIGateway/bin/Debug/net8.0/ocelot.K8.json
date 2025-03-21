@@ -1,0 +1,136 @@
+{
+    "Routes": [
+        {
+            "DownstreamPathTemplate": "/api/Admin/register",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "admin-service",
+                    "Port": 8080
+                }
+            ],
+            "UpstreamPathTemplate": "/Admin/Register",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/Admin/login",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "admin-service",
+                    "Port": 8080
+                }
+            ],
+            "UpstreamPathTemplate": "/Admin/Login",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/Admin/get-all",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "admin-service",
+                    "Port": 8080
+                }
+            ],
+            "UpstreamPathTemplate": "/Admin/List",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/InternalAdmin/{id}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "admin-service",
+                    "Port": 8080
+                }
+            ],
+            "UpstreamPathTemplate": "/Admin/List/{id}",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/Vehicle/get-all",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "accounts-service",
+                    "Port": 8080
+                }
+            ],
+            "UpstreamPathTemplate": "/Vehicle/List",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/InternalAccounts/vehicle/{id}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "accounts-service",
+                    "Port": 8080
+                }
+            ],
+            "UpstreamPathTemplate": "/Vehicle/List/{id}",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/Vehicle/register",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "accounts-service",
+                    "Port": 8080
+                }
+            ],
+            "UpstreamPathTemplate": "/Vehicle/Register",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/Worker/get-all",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "accounts-service",
+                    "Port": 8080
+                }
+            ],
+            "UpstreamPathTemplate": "/Worker/List",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/InternalAccounts/worker/{id}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "accounts-service",
+                    "Port": 8080
+                }
+            ],
+            "UpstreamPathTemplate": "/Worker/List/{id}",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/Worker/register",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "accounts-service",
+                    "Port": 8080
+                }
+            ],
+            "UpstreamPathTemplate": "/Worker/Register",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/Assembles/create",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "assembly-service",
+                    "Port": 8080
+                }
+            ],
+            "UpstreamPathTemplate": "/AssemblyJob/Create",
+            "UpstreamHttpMethod": [ "POST" ]
+        }
+    ]
+}
