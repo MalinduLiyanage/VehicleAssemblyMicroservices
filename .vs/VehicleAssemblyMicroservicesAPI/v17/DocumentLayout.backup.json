@@ -7,6 +7,54 @@
       "RelativeMoniker": "D:0:0:{594CA824-9211-401E-869F-D5C7AEC632E0}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{89484EDD-2A53-F32D-109E-1B0C46E7B46C}|AssemblyService\\AssemblyService.csproj|c:\\users\\malin\\source\\repos\\vehicleassemblymicroservices\\assemblyservice\\appsettings.k8.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89484EDD-2A53-F32D-109E-1B0C46E7B46C}|AssemblyService\\AssemblyService.csproj|solutionrelative:assemblyservice\\appsettings.k8.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F465746A-A2E0-0013-6EA6-B03BA41B90F2}|AdminService\\AdminService.csproj|c:\\users\\malin\\source\\repos\\vehicleassemblymicroservices\\adminservice\\appsettings.k8.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F465746A-A2E0-0013-6EA6-B03BA41B90F2}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\appsettings.k8.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89484EDD-2A53-F32D-109E-1B0C46E7B46C}|AssemblyService\\AssemblyService.csproj|c:\\users\\malin\\source\\repos\\vehicleassemblymicroservices\\assemblyservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89484EDD-2A53-F32D-109E-1B0C46E7B46C}|AssemblyService\\AssemblyService.csproj|solutionrelative:assemblyservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89484EDD-2A53-F32D-109E-1B0C46E7B46C}|AssemblyService\\AssemblyService.csproj|c:\\users\\malin\\source\\repos\\vehicleassemblymicroservices\\assemblyservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89484EDD-2A53-F32D-109E-1B0C46E7B46C}|AssemblyService\\AssemblyService.csproj|solutionrelative:assemblyservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89484EDD-2A53-F32D-109E-1B0C46E7B46C}|AssemblyService\\AssemblyService.csproj|c:\\users\\malin\\source\\repos\\vehicleassemblymicroservices\\assemblyservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{89484EDD-2A53-F32D-109E-1B0C46E7B46C}|AssemblyService\\AssemblyService.csproj|solutionrelative:assemblyservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158127CD-17A2-4ABC-A9FC-6814D878E17D}|AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\vehicleassemblymicroservices\\accountsservice\\appsettings.k8.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{158127CD-17A2-4ABC-A9FC-6814D878E17D}|AccountsService\\AccountsService.csproj|solutionrelative:accountsservice\\appsettings.k8.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F465746A-A2E0-0013-6EA6-B03BA41B90F2}|AdminService\\AdminService.csproj|c:\\users\\malin\\source\\repos\\vehicleassemblymicroservices\\adminservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F465746A-A2E0-0013-6EA6-B03BA41B90F2}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F465746A-A2E0-0013-6EA6-B03BA41B90F2}|AdminService\\AdminService.csproj|c:\\users\\malin\\source\\repos\\vehicleassemblymicroservices\\adminservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F465746A-A2E0-0013-6EA6-B03BA41B90F2}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F465746A-A2E0-0013-6EA6-B03BA41B90F2}|AdminService\\AdminService.csproj|c:\\users\\malin\\source\\repos\\vehicleassemblymicroservices\\adminservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F465746A-A2E0-0013-6EA6-B03BA41B90F2}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158127CD-17A2-4ABC-A9FC-6814D878E17D}|AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\vehicleassemblymicroservices\\accountsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158127CD-17A2-4ABC-A9FC-6814D878E17D}|AccountsService\\AccountsService.csproj|solutionrelative:accountsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158127CD-17A2-4ABC-A9FC-6814D878E17D}|AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\vehicleassemblymicroservices\\accountsservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{158127CD-17A2-4ABC-A9FC-6814D878E17D}|AccountsService\\AccountsService.csproj|solutionrelative:accountsservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158127CD-17A2-4ABC-A9FC-6814D878E17D}|AccountsService\\AccountsService.csproj|c:\\users\\malin\\source\\repos\\vehicleassemblymicroservices\\accountsservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{158127CD-17A2-4ABC-A9FC-6814D878E17D}|AccountsService\\AccountsService.csproj|solutionrelative:accountsservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{594CA824-9211-401E-869F-D5C7AEC632E0}|APIGateway\\APIGateway.csproj|c:\\users\\malin\\source\\repos\\vehicleassemblymicroservices\\apigateway\\ocelot.k8.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{594CA824-9211-401E-869F-D5C7AEC632E0}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\ocelot.k8.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -34,8 +82,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.K8.json",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AssemblyService\\appsettings.K8.json",
+              "RelativeDocumentMoniker": "AssemblyService\\appsettings.K8.json",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AssemblyService\\appsettings.K8.json",
+              "RelativeToolTip": "AssemblyService\\appsettings.K8.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T07:09:49.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AssemblyService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AssemblyService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AssemblyService\\appsettings.Development.json",
+              "RelativeToolTip": "AssemblyService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T07:09:44.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.K8.json",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AdminService\\appsettings.K8.json",
+              "RelativeDocumentMoniker": "AdminService\\appsettings.K8.json",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AdminService\\appsettings.K8.json",
+              "RelativeToolTip": "AdminService\\appsettings.K8.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T07:07:32.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AdminService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AdminService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AdminService\\appsettings.Development.json",
+              "RelativeToolTip": "AdminService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T07:07:24.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AssemblyService\\Program.cs",
+              "RelativeDocumentMoniker": "AssemblyService\\Program.cs",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AssemblyService\\Program.cs",
+              "RelativeToolTip": "AssemblyService\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:06:54.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AdminService\\Program.cs",
+              "RelativeDocumentMoniker": "AdminService\\Program.cs",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AdminService\\Program.cs",
+              "RelativeToolTip": "AdminService\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:06:46.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AccountsService\\Program.cs",
+              "RelativeDocumentMoniker": "AccountsService\\Program.cs",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AccountsService\\Program.cs",
+              "RelativeToolTip": "AccountsService\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:58:19.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.K8.json",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AccountsService\\appsettings.K8.json",
+              "RelativeDocumentMoniker": "AccountsService\\appsettings.K8.json",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AccountsService\\appsettings.K8.json",
+              "RelativeToolTip": "AccountsService\\appsettings.K8.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T06:57:06.91Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -44,14 +196,70 @@
               "RelativeDocumentMoniker": "APIGateway\\Dockerfile",
               "ToolTip": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\APIGateway\\Dockerfile",
               "RelativeToolTip": "APIGateway\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-03-20T20:16:06.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AccountsService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AccountsService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AccountsService\\appsettings.Development.json",
+              "RelativeToolTip": "AccountsService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T06:58:08.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AssemblyService\\Dockerfile",
+              "RelativeDocumentMoniker": "AssemblyService\\Dockerfile",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AssemblyService\\Dockerfile",
+              "RelativeToolTip": "AssemblyService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-21T06:54:27.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AdminService\\Dockerfile",
+              "RelativeDocumentMoniker": "AdminService\\Dockerfile",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AdminService\\Dockerfile",
+              "RelativeToolTip": "AdminService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-21T06:54:10.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AccountsService\\Dockerfile",
+              "RelativeDocumentMoniker": "AccountsService\\Dockerfile",
+              "ToolTip": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\AccountsService\\Dockerfile",
+              "RelativeToolTip": "AccountsService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-21T06:53:22.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\APIGateway\\Program.cs",
               "RelativeDocumentMoniker": "APIGateway\\Program.cs",
@@ -63,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "ocelot.K8.json",
               "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\APIGateway\\ocelot.K8.json",
               "RelativeDocumentMoniker": "APIGateway\\ocelot.K8.json",
@@ -75,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "ocelot.json",
               "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\APIGateway\\ocelot.json",
               "RelativeDocumentMoniker": "APIGateway\\ocelot.json",
@@ -87,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "appsettings.K8.json",
               "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\APIGateway\\appsettings.K8.json",
               "RelativeDocumentMoniker": "APIGateway\\appsettings.K8.json",
@@ -99,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\malin\\source\\repos\\VehicleAssemblyMicroservices\\APIGateway\\appsettings.Development.json",
               "RelativeDocumentMoniker": "APIGateway\\appsettings.Development.json",
