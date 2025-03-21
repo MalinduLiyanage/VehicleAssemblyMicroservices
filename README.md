@@ -37,18 +37,6 @@ spec:
       - name: mysql-init-volume
         configMap:
           name: mysql-init-script
----
-apiVersion: v1
-kind: Service
-metadata:
-  name: mysql-service
-spec:
-  selector:
-    app: mysql
-  ports:
-    - protocol: TCP
-      port: 3306
-      targetPort: 3306
 ```
 
 1.2 MySQL Configmap
@@ -62,6 +50,21 @@ data:
     CREATE DATABASE IF NOT EXISTS vehicle_accounts_db;
     CREATE DATABASE IF NOT EXISTS vehicle_assembles_db;
     CREATE DATABASE IF NOT EXISTS vehicle_admin_db;
+```
+
+1.3 MySQL Service
+```
+apiVersion: v1
+kind: Service
+metadata:
+  name: mysql-service
+spec:
+  selector:
+    app: mysql
+  ports:
+    - protocol: TCP
+      port: 3306
+      targetPort: 3306
 ```
 
 2.1 Accounts Microservice Deployment
